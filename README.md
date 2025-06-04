@@ -12,6 +12,11 @@
   - `report_tech/technical_report.md` - технический отчет
   - `T4/presentation/comparison_presentation.pptx` - презентация
   - `T5/report_questions.doc` - отчет по ответам
+  -  T6/report_test.doc - отчет по тесту
+  -  T7/report_test.doc - отчет задания
+  -  T7/test3.py - исправленная версия кода
+  -  T8/report.doc - отчет задания
+  -  T8/test4.py - код к заданию 8
 
 
 ## Этапы выполнения
