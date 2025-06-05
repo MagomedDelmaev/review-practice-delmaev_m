@@ -8,9 +8,9 @@
   - `.gitgnore` - игнорирование чужих файлов
   - `report.md` - отчет по анализу чужого репозитория
   - `REVIEW_PLANNING.md` - ревьюирование программных модулей
-  - `data/measurements.xlsx` - данные измерений
-  - `report_tech/technical_report.md` - технический отчет
-  - `T4/presentation/comparison_presentation.pptx` - презентация
+  - `T4/date/measurements.xlsx` - данные измерений
+      - `T4/report_tech/technical_report.md` - технический отчет
+      - `T4/presentation/comparison_presentation.pptx` - презентация
   - `T5/report_questions.doc` - отчет по ответам
   - `T6/report_test.doc` - отчет по тесту
   - `T7/report_test.doc` - отчет задания
@@ -25,7 +25,7 @@
   - `T11/report_test11.doc`- отчет задания
       - `T11/test_codeMistake.py` - код с ошибками
       - `T11/test_codeUpdate.py` - исправленный код
-
+  - `T12/report_test.md` - ответ на вопросы задания 12
 
 ## Этапы выполнения
 
