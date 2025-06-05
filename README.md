@@ -14,11 +14,17 @@
   - `T5/report_questions.doc` - отчет по ответам
   - `T6/report_test.doc` - отчет по тесту
   - `T7/report_test.doc` - отчет задания
-  - `T7/test3.py` - исправленная версия кода
+      - `T7/test3.py` - исправленная версия кода
   - `T8/report.doc` - отчет задания
-  - `T8/test4.py` - код к заданию 8
+      - `T8/test4.py` - код к заданию 8
   - `T9/report_test.doc` - отчет задания
-  - `T9/test5.py` - код к заданию 9
+      - `T9/test5.py` - код к заданию 9
+  - `T10/report_test.doc` - отчет задания
+      - `T10/test6.py` - код №6 к заданию 10  
+      - `T10/test7.py` - код №7 к заданию 10
+  - `T11/report_test11.doc`- отчет задания
+      - `T11/test_codeMistake.py` - код с ошибками
+      - `T11/test_codeUpdate.py` - исправленный код
 
 
 ## Этапы выполнения
